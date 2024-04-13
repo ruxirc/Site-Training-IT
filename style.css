@@ -1,0 +1,23 @@
+div {
+  font-weight: bold;
+  background-color: brown;
+}
+
+#primu {
+  font-size: xx-large;
+}
+
+.test {
+  text-align: end;
+}
+
+#verde {
+  color: green;
+}
+#galben {
+  color: yellow;
+}
+#rosu {
+  color: red;
+  background-color: chartreuse;
+}
